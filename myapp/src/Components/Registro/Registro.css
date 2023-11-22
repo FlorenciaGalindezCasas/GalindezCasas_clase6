@@ -1,0 +1,20 @@
+.registro{
+    min-height: 100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.form{
+    padding-top:10%;
+}
+
+h2{
+    text-align: center;
+}
+
+.chakra-button{
+    width:100%;
+    margin-top:5%;
+}
