@@ -24,4 +24,4 @@ Lista de tecnologías usadas en el proyecto:
 ## Deploy 
 
 ### Netlify:
-* [Deploy]()
+* [Deploy](https://registro-galindezcasas.netlify.app/)
